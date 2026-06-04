@@ -903,14 +903,18 @@ TilesetKantoGymMeta:: INCBIN "data/tilesets/kanto_gym_metatiles.bin.lzp"
 TilesetKantoGymAttr:: INCBIN "data/tilesets/kanto_gym_attributes.bin.lzp"
 TilesetKantoGymColl:: INCBIN "data/tilesets/kanto_gym_collision.bin.lzp"
 
+
 SECTION "Tileset Graphics - city vram0", ROMX
 
 TilesetCityGFX0:: INCBIN "gfx/tilesets/city.2bpp.vram0.lzp"
 
-
 SECTION "Tileset Graphics - city vram1", ROMX
 
 TilesetCityGFX1:: INCBIN "gfx/tilesets/city.2bpp.vram1.lzp"
+
+SECTION "Tileset Graphics - city vram2", ROMX
+
+TilesetCityGFX2:: INCBIN "gfx/tilesets/city.2bpp.vram2.lzp"
 
 
 SECTION "Tileset Data - city", ROMX
@@ -918,6 +922,7 @@ SECTION "Tileset Data - city", ROMX
 TilesetCityMeta:: INCBIN "data/tilesets/city_metatiles.bin.lzp"
 TilesetCityAttr:: INCBIN "data/tilesets/city_attributes.bin.lzp"
 TilesetCityColl:: INCBIN "data/tilesets/city_collision.bin.lzp"
+
 
 SECTION "Tileset Graphics - Terminator vram2", ROMX
 

@@ -6,8 +6,8 @@ PlayersHouse1F_MapScriptHeader:
 	def_callbacks
 
 	def_warp_events
-	warp_event  8,  7, NEW_BARK_TOWN, 2
-	warp_event  9,  7, NEW_BARK_TOWN, 2
+	warp_event  8,  7, ILEX_FOREST_AZALEA_GATE, 3
+	warp_event  9,  7, ILEX_FOREST_AZALEA_GATE, 4
 	warp_event 11,  0, PLAYERS_HOUSE_2F, 1
 
 	def_coord_events

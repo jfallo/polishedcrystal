@@ -232,7 +232,7 @@ ENDM
 	map_const KURTS_HOUSE,                                 8,  4 ;  4
 	map_const AZALEA_GYM,                                  5,  8 ;  5
 	map_const ROUTE_33,                                   10,  9 ;  6
-	map_const AZALEA_TOWN,                                20,  9 ;  7
+	map_const AZALEA_TOWN,                                24,  22 ;  7
 
 	newgroup                                                     ;  9
 	map_const BATTLE_TOWER_1F,                            11,  8 ;  1
