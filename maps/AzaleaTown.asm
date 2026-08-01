@@ -30,7 +30,7 @@ AzaleaTown_MapScriptHeader:
 	bg_event 32, 38, BGEVENT_JUMPTEXT, SlowpokeWellSignText
 	bg_event  8, 40, BGEVENT_JUMPTEXT, CharcoalKilnSignText
 	bg_event  4, 42, BGEVENT_JUMPTEXT, AzaleaTownIlexForestSignText
-	bg_event 28,  8, BGEVENT_JUMPTEXT, AzaleaTownAdvancedTipsSignText
+	bg_event 26, 15, BGEVENT_JUMPTEXT, AzaleaTownAdvancedTipsSignText
 	bg_event 27,  8, BGEVENT_ITEM + FULL_HEAL, EVENT_AZALEA_TOWN_HIDDEN_FULL_HEAL
 
 	def_object_events
